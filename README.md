@@ -5,5 +5,5 @@ Actualizacion 3.0 Se utiliza data en formato json, se agrega inventario y restri
 
 Autor: Giselle Donari Riveros.
 
-Github: https://github.com/giselledonari/sweetpastry.github.io/
+Github: https://github.com/giselledonari/sweetpastry_modulo4/
 Page:https://giselledonari.github.io/sweetpastry_modulo4/pages/index.html
